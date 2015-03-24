@@ -1,0 +1,6 @@
+管理面板 	http://124.173.125.155:81
+管理账号 	mingweihang
+管理密码 	djW12MMAas2
+FTP服务器 	59.188.75.178
+FTP用户名 	mingweihang
+FTP密码 	k6Jow2WQ12

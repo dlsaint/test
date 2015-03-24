@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+/*container*/
+/*top*/
+.container-body{position:relative; width:1004px; display:block; margin:0 auto; overflow:hidden;}
+.about-top{margin-bottom:18px; overflow:hidden;}
+.about-top .about-title{height:21px; margin-top:85px; margin-bottom:30px; width:286px; position:relative; padding:15px 0px 15px 10px;}
+.about-top .about-title i{float:left; width:4px; height:21px; line-height:21px; display:inline-block; background:#fff; z-index:20; position:relative;}
+.about-top .about-title span{float:left; display:inline-block; font-size:16px; font-weight:bold; color:#fff; z-index:20; position:relative; line-height:21px; margin-left:10px;}
+.about-top .about-title b{width:100%; height:100%; position:absolute; top:0px; left:0px; background:#015492; z-index:19; opacity:0.75; filter:alpha(opacity=75); -moz-opacity:0.75;}
+.about-top .about-font{height:177px; position:relative; padding:28px 50px;}
+.about-top .about-left{z-index:22; position:relative; display:block; margin-right:352px;}
+.about-top .about-left p{color:#fff; margin-top:35px; font-size:14px; font-weight:bold; line-height:25px; }
+.about-top .about-right{z-index:22; float:right; width:282px; position:relative;}
+.about-top .about-righ .num{background:#034d83;}
+.about-top .about-opc{position:absolute; left:0px; top:0px; width:100%; height:100%; background:#015492; opacity:0.75; filter:alpha(opacity=75); -moz-opacity:0.75;z-index:19;}
+/*right*/
+.about-bottom {background:#f6f6f6;}
+.about-bottom .about-right{width:355px; float:right;}
+.about-bottom .about-right .right1{background:#fff; overflow:hidden;}
+.about-bottom .contact{padding:30px 20px;}
+.about-bottom .contact p{font-size:12px; color:#777777; font-weight:bold; line-height:25px;}
+.about-bottom .about-right .right2{margin-top:40px; overflow:hidden; background:#fff;}
+.about-bottom .about-right .right2 ul{padding:25px; width:340px;}
+.about-bottom .about-right .right2 ul li{width:150px; float:left; margin-right:20px; margin-bottom:20px;}
+
+
+
+

@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+/*container*/
+/*top*/
+.container-body{position:relative; width:1004px; display:block; margin:0 auto; overflow:hidden;}
+.about-top{margin-bottom:18px; overflow:hidden;}
+.about-top .about-title{height:21px; margin-top:85px; margin-bottom:30px; width:286px; position:relative; padding:15px 0px 15px 10px;}
+.about-top .about-title i{float:left; width:4px; height:21px; line-height:21px; display:inline-block; background:#fff; z-index:20; position:relative;}
+.about-top .about-title span{float:left; display:inline-block; font-size:16px; font-weight:bold; color:#fff; z-index:20; position:relative; line-height:21px; margin-left:10px;}
+.about-top .about-title b{width:100%; height:100%; position:absolute; top:0px; left:0px; background:#015492; z-index:19; opacity:0.75; filter:alpha(opacity=75); -moz-opacity:0.75;}
+.about-top .new-font{ position:relative; padding:28px 50px; background:#fff;}
+.about-top .new-font .leibie{float:right; text-align:right;}
+.about-top .new-font .leibie a{font-size:12px; color:#afafaf; display:inline-block; float:right; padding-left:15px;}
+.about-top .new-font .leibie a:hover{text-decoration:underline; color:#015492;}
+.new-part{padding:25px 0px 25px 0px; border-bottom:1px dashed #c9c9c9; overflow:hidden;}
+.new-part-left{float:left; width:72px;}
+.new-part-left .date{font-size:48px; color:#015492;  border-bottom:2px solid #015492; line-height:50px; text-align:center;}
+.new-part-left .year{font-size:16px; color:#015492;text-align:center; font-weight:bold;}
+.new-part-right{margin-left:140px;}
+.new-part-right .title{display:block; overflow:hidden; margin-bottom:15px;}
+.new-part-right .title span{font-size:26px; color:#155e98; font-weight:bold; display:inline-block; float:left; line-height:30px;}
+.new-part-right .title b{display:inline-block; background:url(../images/jian.jpg) no-repeat 6px bottom; width:25px; height:28px;}
+.new-part-right .font p{font-size:14px; color:#636363; line-height:30px;}
+.new-part-right .more a{float:right; font-size:12px; color:#9b9b9b; text-decoration:underline; line-height:35px;}
+.yema{text-align:center; margin-top:80px;}
+.yema a{border-radius:4px; background:#0068b5; padding:6px 8px; color:#fff; font-size:14px; font-weight:bold;}
+.yema a:hover{background:#005290;}
+.yema i{background:url(../images/yuan.jpg) no-repeat center center; text-indent:-9999px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
