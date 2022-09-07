@@ -1,0 +1,3 @@
+[submodule "easy-yapi"]
+	path = easy-yapi
+	url = https://github.com/tangcent/easy-yapi.git
